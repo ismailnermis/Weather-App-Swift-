@@ -1,5 +1,5 @@
 # Weather-App-Swift-
-In this project I used Firebase.
+In this project I used JSON.
 Usage of JSON, Protocols, Extensions, MVC.
 
 NOTICE: 
