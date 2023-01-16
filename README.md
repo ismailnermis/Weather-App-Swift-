@@ -1,6 +1,6 @@
 # Weather-App-Swift-
 In this project I used Firebase.
-Usage of Firebase, Protocols, Extensions, MVC.
+Usage of JSON, Protocols, Extensions, MVC.
 
 NOTICE: 
 In Hava Durumu/Model/WeatherManager.swift line17 :
